@@ -1,0 +1,31 @@
+[Input interpretation] :  mountain | with highest elevation
+[Result] : Mount Everest
+(8849 meters)
+[Properties] : elevation | 8849 m
+location | Tibet, China | Solukhumbu, Koshi, Nepal
+mountain range | Himalayan mountains | Mahalangur Himal
+summit reached | Friday, May 29, 1953 (73 years ago)
+climbing difficulty | major mountain expedition
+[Mountain characteristics] : type | fold | metamorphic | schist | gneiss | igneous | limestone
+epoch | Pleistocene Epoch
+isolation | 40008 km (kilometers)
+prominence | 8849 meters
+[Local elevation] : 8849 meters
+[Local elevation] :    
+[Standard atmosphere at peak elevation] : density | 0.4 × standard atmosphere
+pressure | 0.3 × standard atmosphere
+[Nearby cities] : Lalitpur, Nepal | 162 km (kilometers) west-southwest | 260324 people
+Kathmandu, Nepal | 162 km (kilometers) west | 845767 people
+(straight-line distances to city centers)
+[Nearby mountains] : Lhotse | 2 km (kilometers) south-southeast | 8516 meters
+Lhotse Middle | 3 km (kilometers) southeast | 8410 meters
+Hillary Peak | 4 km (kilometers) south-southwest | 7681 meters
+Lhotse Shar | 4 km (kilometers) south-southeast | 8383 meters
+Changtse | 4 km (kilometers) north-northwest | 7543 meters
+[Wikipedia summary] : Mount Everest (known locally as Sagarmāthā in Nepal and Qomolangma in Tibet Autonomous Region of China) is the highest mountain on Earth above sea level. It lies in the Mahalangur Himal sub-range of the Himalayas and marks part of the China-Nepal border at its summit. Its height was most recently measured in 2020 through a joint survey by Nepalese and Chinese authorities as 8, 848.86 m (29, 031 ft 8 1/2 in).
+[Mountains ranked by elevation] : 1 | Mount Everest | 8849 m | 
+2 | K2 | 8612 m | 
+3 | Kangchenjunga | 8586 m | 
+4 | Lhotse | 8516 m | 
+5 | Kangchenjunga West | 8505 m | 
+⋮

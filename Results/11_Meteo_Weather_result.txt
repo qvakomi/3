@@ -1,0 +1,32 @@
+[Input interpretation] : weather | Tokyo
+[Latest recorded weather for Tokyo] : temperature | 12 °C
+conditions | rain, cloudy
+relative humidity | 82% (dew point: 9 °C)
+wind speed | 6.2 m/s
+(45 minutes ago)
+[Weather forecast for Tokyo] : between 10 °C and 12 °C
+few clouds (all night) | rain (night onward)
+[Weather forecast for Tokyo] : 10 °C
+rain (early morning to early afternoon) | few clouds (early morning to early afternoon) | clear (early afternoon onward)
+[Weather history & forecast] : 
+ | | | 
+low: 9 °C
+Wed, Nov 11, 12:00am | average high: | 16 °C
+average low: | 12 °C | high: 20 °C
+Fri, Nov 6, 10:15pm
+ | |  
+[Weather history & forecast] : 
+ | clear: 52.9% (2.6 days) | overcast: 0% (0 minutes) 
+[Weather history & forecast] : 
+ | rain: 24.9% (1.2 days) | fog: 1.3% (1.5 hours) 
+[Weather history & forecast] : 
+ | 
+maximum: 1.5 mm/h
+Tue, Nov 10, 12:00am
+
+[Historical temperatures for November 9] : 
+low: 4 °C
+1955 | average high: | 18 °C
+average low: | 11 °C | high: 25 °C
+1998
+(daily ranges, not corrected for changes in local weather station environment)

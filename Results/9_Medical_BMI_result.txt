@@ -1,0 +1,15 @@
+[Input information] : body mass index | 
+height | 180 cm (centimeters)
+body weight | 75 kg (kilograms)
+[Result] : body mass index | 23.15
+[Equation] : BMI = W/H^2 | 
+BMI | body mass index
+H | height
+W | body weight
+(based on Quetelet's formula)
+[International weight classification] : normal range (18.5-25)
+[BMI prime] : 0.926
+[Comparison to USA population] :  | 95% reference range | percentile rank | z-score | distribution
+height | (150 to 189) cm (centimeters) | 85.2% | 1.1 | 
+weight | (49 to 128) kg (kilograms) | 44.5% | -0.27 | 
+body mass index | (19 to 44) | 22.1% | -0.78 | 

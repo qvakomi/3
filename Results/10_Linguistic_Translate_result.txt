@@ -1,0 +1,3 @@
+[Input interpretation] : translate | hello | to Russian
+[Results] : (noun) привет | приветствие
+Здравствуйте

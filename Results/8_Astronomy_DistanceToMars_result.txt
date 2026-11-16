@@ -1,0 +1,25 @@
+[Input interpretation] : Mars | distance from Earth
+[Current result] : 1.362 au (astronomical units)
+[Unit conversions] : 2.038 × 10^8 km (kilometers)
+[Unit conversions] : 2.038 × 10^11 meters
+[Unit conversions] : 126.6 million miles
+[Comparisons as distance] :  ≈ ( 0.015 ≈ 1/65 ) × smallest distance from the Sun to the heliosheath ( 79 to 100 au )
+[Comparisons as distance] :  ≈ 1.4 × mean Earth-Sun distance ( 1.0000010178 au )
+[Corresponding quantities] : Light travel time t in vacuum from t = x/c:
+ | 11 minutes
+[Corresponding quantities] : Light travel time t in an optical fiber t = 1.48x/c:
+ | 17 minutes
+[Corresponding quantities] : Solar radiation pressure from P = L_☉/(c4πr^2):
+ | 2.4 μPa (micropascals)
+ | (assuming solar constant ≈ 1.36 kW/m^2)
+[Orbital properties] : current distance from Earth | 1.362 au
+11.33 light minutes
+average distance from Earth | 1.7 au
+14.1 light minutes
+current distance from Sun | 1.603 au
+13.33 light minutes
+apoapsis | 2.4922873 × 10^8 km
+1.66599116 au
+periapsis | 2.06644545 × 10^8 km
+1.38133346 au
+orbital period | 1.8808476 a

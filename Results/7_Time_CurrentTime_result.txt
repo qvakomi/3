@@ -1,0 +1,11 @@
+[Input interpretation] : current time in Kazan, Kazan', Russia
+[Result] : 4:14:35 pm MSK | Monday, November 9, 2026
+[Time offset from CET] : +2 hours
+[Clocks] : Moscow
+
+4:14:35 pm MSK
+Monday, November 9 Berlin
+
+2:14:35 pm CET
+Monday, November 9
+[Current Greenwich mean time] : 1:14:35 pm GMT | Monday, November 9, 2026

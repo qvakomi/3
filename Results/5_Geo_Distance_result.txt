@@ -1,0 +1,13 @@
+[Input interpretation] : distance | from | Moscow, Tsentralniy, Russia
+to | Saint Petersburg, Admiralteyskiy, Russia
+[Result] : 636.2 km (kilometers)
+[Unit conversions] : 395.3 miles
+[Unit conversions] : 636.2 km (kilometers)
+[Unit conversions] : 636161 meters
+[Unit conversions] : 6.362 × 10^7 cm (centimeters)
+[Unit conversions] : 343.5 nmi (nautical miles)
+[Direct travel times] : aircraft (885 km/h) | 43 minutes
+sound | 31 minutes
+light in fiber | 3 ms (milliseconds)
+light in vacuum | 2 ms (milliseconds)
+(assuming constant-speed great-circle path)

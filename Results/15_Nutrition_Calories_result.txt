@@ -1,0 +1,54 @@
+[Input interpretation] : banana | amount | 100 grams | total calories
+[Result] : 89 Cal (dietary Calories)
+[Unit conversions] : 370 kJ (kilojoules)
+[Unit conversions] : 0.37 MJ (megajoules)
+[Unit conversions] : 370000 J (joules)
+[Unit conversions] : 3.7 × 10^12 ergs
+ (unit officially deprecated)
+[Unit conversions] : 89 kcal_th (thermochemical kilocalories)
+ (unit officially deprecated)
+[Comparison to reference daily intake] :  | daily amount | % daily value
+RDA | 2000 Cal/d (dietary Calories per day) | 4%
+(RDA: recommended daily allowance)
+[Ranking among common foods] : fraction with higher value | 57.9%
+fraction with lower value | 42.1%
+fraction with zero value | 0%
+distribution | 
+(distribution is based on nutrient values in standard servings of 7500 common foods)
+[Nutrition facts] : serving size 100 g
+total calories 89 | fat calories 3
+% daily value^* | 
+ total fat 330 mg | 1%
+ saturated fat 112 mg | 1%
+ trans fat | 
+ cholesterol 0 g | 0%
+ sodium 1 mg | 0%
+ total carbohydrates 23 g | 8%
+ dietary fiber 3 g | 10%
+ sugar 12 g | 
+ protein 1 g | 2%
+ vitamin A 1% | vitamin C 14% 
+ iron 1% | vitamin E 1% 
+ thiamin 2% | riboflavin 4% 
+ niacin 3% | vitamin B6 18% 
+ folate 5% | phosphorus 2% 
+ magnesium 7% | zinc 1% 
+*percent daily values are based on a 2000 calorie diet
+[Daily value ranking] :  | value | % daily value
+vitamin B6 | 367 μg | 18%
+vitamin C | 8.7 mg | 14%
+potassium | 358 mg | 10%
+ | ⋮ | 
+vitamin B12 | 0 g | 0%
+cholesterol | 0 g | 0%
+[Highest nutrients compared to other foods] :  | amount | % daily value | foods distribution | rank
+fructose | 4.9 g | | | 90.3%
+glucose | 5 g | | | 89.3%
+vitamin C | 8.7 mg | 14% | | 85%
+(distributions from log nutrient values in standard servings of 7500 common foods)
+[Calories] :  | value | % daily value
+total calories | 89 Cal | 4%
+fat calories | 2.8 Cal | 
+[Physical properties] : mass | 100 grams
+serving volume | 105 mL (milliliters)
+serving density | 0.95 g/cm^3 (grams per cubic centimeter)

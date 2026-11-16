@@ -1,0 +1,16 @@
+[Input interpretation] : Earth | escape velocity
+[Result] : 11180 m/s (meters per second)
+[Unit conversions] : 11.18 km/s (kilometers per second)
+[Unit conversions] : 25010 mph (miles per hour)
+[Unit conversions] : 416.8 mi/min (miles per minute)
+[Unit conversions] : 6.947 mi/s (miles per second)
+[Unit conversions] : 670.8 km/min (kilometers per minute)
+[Comparisons as speed] :  ≈ 0.69 × Earth-relative launch speed of the New Horizons spacecraft ( 16.26 km/s )
+[Comparisons as speed] :  ≈ 1.009 × fastest speed traveled by a human (Apollo 10 spacecraft relative to Earth upon return) ( 39897 km/h )
+[Comparisons as speed] :  ≈ theoretical maximum ground vehicle speed for graphene tires ( 10.709 km/s )
+[Corresponding quantities] : Time to travel 1 meter from t = d/v:
+ | 89 μs (microseconds)
+[Corresponding quantities] : Time to travel 1 kilometer from t = d/v:
+ | 89 ms (milliseconds)
+[Corresponding quantities] : Slowness from s = 1/v:
+ | 0.089 s/km (seconds per kilometer)

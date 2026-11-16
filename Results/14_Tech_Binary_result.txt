@@ -1,0 +1,11 @@
+[Input interpretation] : convert 255 to base2
+[Result] : 11111111_2
+[Other base conversions] : 3333_4
+[Other base conversions] : 377_8
+[Other base conversions] : 193_12
+[Other base conversions] : ff_16
+[Other data types] :  | hexadecimal value
+unsigned 16-bit integer | ff00 
+unsigned 32-bit integer | ff000000 
+IEEE double-precision number | 0000000000e06f40 
+(assuming little-endian byte ordering)

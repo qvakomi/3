@@ -1,0 +1,11 @@
+[Input information] : kinetic energy | 
+mass | 5 kg (kilograms)
+velocity | 10 m/s (meters per second)
+[Result] : kinetic energy | 250 J (joules)
+= 0.06944 W h (watt hours)
+= 1.56 × 10^12 GeV (gigaelectronvolts)
+[Equation] : K = (m v^2)/2 | 
+K | kinetic energy
+m | mass
+v | velocity
+(the energy of an object due to its motion)

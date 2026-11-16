@@ -1,0 +1,13 @@
+[Input interpretation] : sulfuric acid | molar mass
+[Result] : 98.07 g/mol (grams per mole)
+[Unit conversion] : 0.09807 kg/mol (kilograms per mole)
+[Comparisons as molar mass] :  ≈ ( 0.14 ≈ 1/7 ) × molar mass of fullerene ( 720.642 g/mol )
+[Comparisons as molar mass] :  ≈ 0.51 × molar mass of caffeine ( 194.191 g/mol )
+[Comparisons as molar mass] :  ≈ 1.7 × molar mass of sodium chloride ( 58.443 g/mol )
+[Corresponding quantities] : Mass of a molecule m from m = M/N_A:
+ | 1.6 × 10^-22 grams
+ | 1.6 × 10^-25 kg (kilograms)
+ | 98 u (unified atomic mass units)
+ | 98 Da (daltons)
+[Corresponding quantities] : Relative molecular mass M_r from M_r = M_u/M:
+ | 98

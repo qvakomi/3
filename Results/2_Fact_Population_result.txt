@@ -1,0 +1,14 @@
+[Input interpretation] : Russia | population | 2024
+[Result] : 145 million people (2023 projection) (world rank: 9th) (2024 estimate)
+[Demographics] : population | 145 million people (2023 projection) (world rank: 9th) (2024 estimate)
+population density | 8.84 people/km^2 (people per square kilometer) (world rank: 222nd) (2024 estimate)
+[Largest cities] : city | population
+Moscow, Central | 13.01 million people
+Saint Petersburg, Admiralteysky | 5.602 million people
+Novosibirsk | 1.634 million people
+Yekaterinburg | 1.344 million people
+Nizhny Novgorod | 1.213 million people
+(2006, 2010, 2015, 2016, 2017, 2018, 2021, 2023, and 2024 estimates)
+[Comparisons] :  ≈ ( 0.019 ≈ 1/54 ) × world population ( 7.795 billion people )
+[Comparisons] :  ≈ 0.69 × current population of Brazil ( 209.3 million people )
+[Comparisons] :  ≈ 1.4 × current population of Philippines ( 104.9 million people )

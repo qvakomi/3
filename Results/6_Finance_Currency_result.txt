@@ -1,0 +1,18 @@
+[Input interpretation] : convert $100 (US dollars) to Russian rubles
+[Result] : 8194.79 ₽ (Russian rubles) (08. November 2026)
+[Local currency conversion for $100 (US dollars)] : €89.57 (euros) (06. November 2026)
+[Exchange history for $100 (US dollars)] : 
+1-year minimum | 7084.76 ₽ (28. May 2026 | 5 months ago)
+1-year maximum | 8729.72 ₽ (02. September 2026 | 2 months ago)
+1-year average | 7891.51 ₽ (annualized volatility: 13%)
+[Additional currency conversions for $100 (US dollars)] : CNY | ￥667.13 (Chinese yuan)
+JPY | ¥15833 (Japanese yen)
+GBP | £74.71 (British pounds)
+CAD | C$140.66 (Canadian dollars)
+MXN | $1870.38 (Mexican pesos)
+GTQ | Q765.71 (Guatemala quetzales)
+CRC | ₡45437.90 (Costa Rican colones)
+HNL | L2695.94 (Honduran lempiras)
+JMD | J$15902.87 (Jamaican dollars)
+XAU | 0.02 oz (gold ounces)
+XAG | 1.94 oz (silver ounces)
